@@ -55,7 +55,7 @@ tensorflow
 
 keras
 
-##  how to Runs Locally
+##  How to Runs Locally
 
 👉Step-1: Download the datset using above link.
 
