@@ -23,6 +23,8 @@ This project performs **expression analysis** using **OpenCV** for real-time fac
 This project uses the **FER-2013** dataset from Kaggle:  
 👉 [https://www.kaggle.com/datasets/msambare/fer2013]
 
+---
+
 ##  📌 How it Works
 
 1. The model is trained on FER-2013 dataset with 7 emotion categories.
@@ -35,6 +37,8 @@ This project uses the **FER-2013** dataset from Kaggle:
 
 5. Bounding box and label are drawn on the video frame.
 
+---
+
 ## 🧠 Technologies Used
 
 OpenCV (for face detection & live camera)
@@ -45,7 +49,9 @@ NumPy
 
 FER-2013 dataset
 
-Install Dependencies
+---
+
+## Install Dependencies
 
 numpy==1.24.3
 
@@ -55,6 +61,8 @@ tensorflow
 
 keras
 
+---
+
 ##  How to Runs Locally
 
 👉Step-1: Download the datset using above link.
@@ -62,3 +70,5 @@ keras
 🎥 Run the Real-Time Emotion Detection
 
 👉Step-2: Run Detect_expression file
+
+---
